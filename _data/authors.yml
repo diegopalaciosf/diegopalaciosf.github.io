@@ -1,18 +1,12 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+diego:
+  name: "Diego Palacios Farias"
+  avatar: "/images/Diego_Palacios.jpg"
+  bio: "Assistant Professor at the Society and Health Research Center (CISS), Universidad Mayor (Chile). Social network analysis in schools, families, and organizations."
+  location: "Santiago, Chile"
+  employer: "Universidad Mayor"
+  email: "diego.palacios@umayor.cl"
+  twitter: "diegopalacios__"
+  linkedin: "diego-palacios-29a91035"
+  github: "diegopalaciosf"
