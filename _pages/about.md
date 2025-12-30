@@ -3,6 +3,7 @@ layout: single
 title: "About"
 permalink: /about/
 author_profile: true
+author: diego
 ---
 
 I am [Diego Palacios](https://www.researchgate.net/profile/Diego-Palacios-13), an assistant professor at the Society and Health Research Center
