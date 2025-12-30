@@ -1,16 +1,20 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Journal articles
+- Ortega, L., Manaut, C., **Palacios, D.**, & Martínez, M. V. (2023). *REICE*.
+- Villalobos, C., Queupil, J. P., & **Palacios, D.** (2022). *REDES*.
+- Guzmán-Valenzuela, C., Tagle, A. R.-M., & **Palacios, D.** (2022). *Higher Education*.
+- **Palacios, D.**, & Berger, C. (2022). *Psykhe*.
+- **Palacios, D.**, Dijkstra, J. K., Berger, C., Huisman, M., & Veenstra, R. (2022). *Social Development*.
 
-{% include base_path %}
+## Book chapters
+- Luengo-Kanacri et al. (2022). Ediciones UC.
+- Marinovic et al. (2021). Ediciones UC.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Working / submitted papers
+*(list exactly as you provided — this is fine academically)*
