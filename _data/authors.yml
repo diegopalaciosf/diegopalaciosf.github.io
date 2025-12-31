@@ -2,8 +2,8 @@
 
 diego:
   name: "Diego Palacios Farias"
-  avatar: "/images/Diego_Palacios.jpg" 
-  avatar_url: "/images/Diego_Palacios.jpg"
+  avatar: "Diego_Palacios.jpg" 
+  avatar_url: "Diego_Palacios.jpg"
   bio: "Assistant Professor at the Society and Health Research Center (CISS), Universidad Mayor (Chile). Social network analysis in schools, families, and organizations."
   location: "Santiago, Chile"
   employer: "Universidad Mayor"
