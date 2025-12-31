@@ -13,8 +13,12 @@ plugins:
 locale: "en-US"
 markdown: kramdown
 
-author: diego
+author:
   name: "Diego Palacios Farias"
+
+# IMPORTANT: publish pages stored in _pages
+include:
+  - _pages
 
 defaults:
   - scope:
@@ -22,9 +26,6 @@ defaults:
     values:
       author: diego
       author_profile: true
-
-include:
-  - _pages
 
 exclude:
   - README.md
