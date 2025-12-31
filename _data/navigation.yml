@@ -14,5 +14,8 @@ main:
   - title: "Supervision"
     url: /supervision/
 
+  - title: "Service & Editorial"
+    url: /service/
+    
   - title: "CV"
     url: /cv/
