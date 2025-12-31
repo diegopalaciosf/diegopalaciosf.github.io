@@ -15,7 +15,7 @@ markdown: kramdown
 
 author:
   name: "Diego Palacios Farias"
-  avatar: "/images/profile.png"
+  avatar: "/images/profile.png" 
   avatar_url: "/images/profile.png"
 # IMPORTANT: publish pages stored in _pages
 include:
