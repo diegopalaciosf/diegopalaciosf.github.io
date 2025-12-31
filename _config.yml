@@ -23,6 +23,9 @@ defaults:
       author: diego
       author_profile: true
 
+include:
+  - _pages
+
 exclude:
   - README.md
   - Gemfile
