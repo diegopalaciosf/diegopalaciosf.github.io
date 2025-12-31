@@ -9,51 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Other Affiliations
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- Early Career Researcher, Millennium Nucleus for the Evaluation and Analysis of Drug Policies (nDP)
+- Early Career Researcher, Millennium Nucleus on Sociomedicine (SocioMed)
+- Board Member, Chilean Society for Social Network Science (CHISOCNET)
+- Member, International Network for Social Network Analysis (INSNA)
+- Member, James Coleman Association (ICS)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **PhD in Sociology**, University of Groningen, The Netherlands (2016–2020)
+- **Master of Educational Psychology**, Pontificia Universidad Católica de Chile, Santiago, Chile (2011–2013)
+- **Degree in Sociology**, Pontificia Universidad Católica de Chile, Santiago, Chile (2005–2010)
+
+## Professional Experience
+
+- **Associate Professor**, Society and Health Research Center, Universidad Mayor, Chile (2025–Present)
+- **Assistant Professor**, Society and Health Research Center, Universidad Mayor, Chile (2021–2025)
+- **Research Assistant**, MIDE UC, Pontificia Universidad Católica de Chile (2013–2016)
+- **Research Assistant**, CEIS Maristas (2009)
+
+## Prizes & Scholarships
+
+- PhD internship scholarship, Centre for Social Conflict and Cohesion Studies (Chile) (2019)
+- PhD scholarship, University of Groningen (2016–2020)
+- PhD scholarship (BECAS CHILE), ANID (2016–2020)
+
+---
+
+## Publications
+
+See the full list here: [Publications]({{ base_path }}/publications/)
+
+## Presentations
+
+See selected international presentations here: [Presentations]({{ base_path }}/presentations/)
+
+## Teaching
+
+See courses and workshops here: [Teaching]({{ base_path }}/teaching/)
+
+### Download full CV
+[Download CV (PDF)]({{ base_path }}/files/CV_Diego_Palacios.pdf)
+
