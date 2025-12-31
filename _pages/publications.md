@@ -18,4 +18,4 @@ author: diego
 - Marinovic et al. (2021). Ediciones UC.
 
 ## Working / submitted papers
-*(list exactly as you provided — this is fine academically)*
+
