@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author: diego
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Diego Palacios Farias"
+  avatar           : "/images/Diego_Palacios.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Santiago, Chile"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email: "diego.palacios@umayor.cl"
+  twitter: "diegopalacios__"
+  github: "diegopalaciosf"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author: diego
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  #github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
