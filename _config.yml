@@ -13,7 +13,7 @@ plugins:
 locale: "en-US"
 markdown: kramdown
 
-author:
+author: diego
   name: "Diego Palacios Farias"
 
 defaults:
