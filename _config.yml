@@ -207,6 +207,7 @@ defaults:
       path: ""
       type: pages
     values:
+      author: diego
       layout: single
       author_profile: true
   # _teaching
