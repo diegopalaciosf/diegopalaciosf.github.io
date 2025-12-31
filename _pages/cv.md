@@ -51,5 +51,5 @@ See selected international presentations here: [Presentations]({{ base_path }}/p
 See courses and workshops here: [Teaching]({{ base_path }}/teaching/)
 
 ### Download full CV
-[Download CV (PDF)]({{ base_path }}/files/CV_Diego_Palacios.pdf)
+[Download CV (PDF)]({{ base_path }}/files/CV_english_January2026.pdf)
 
