@@ -1,18 +1,15 @@
-# main links links
 main:
   - title: "Publications"
     url: /publications/
-    
+
+  - title: "Presentations"
+    url: /presentations/   # si tu página es /talks/ cambia aquí
+
   - title: "Research Projects"
     url: /research-projects/
-  
-  - title: "Presentations"
-    url: /presentations/
 
-   - title: "Teaching"
-    url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "CV"
     url: /cv/
-    
- 
