@@ -56,13 +56,14 @@ author: diego
 
 ## Book chapters
 
-- Chávez, D., **Palacios, D.**, Luengo-Kanacri, B. P., & Berger, C. (2023). ¿Están segregados los estudiantes inmigrantes? Aplicaciones de amistad e integración de estudiantes inmigrantes en Chile. In A. Espinosa-Rada & F. Ortiz (Eds.), *Redes Sociales: teoría, métodos y aplicaciones en América Latina*. Santiago: Centro de Investigaciones Sociológicas (CIS).
+- Chávez, D., **Palacios, D.**, Luengo-Kanacri, B. P., & Berger, C. (2023). ¿Están segregados los estudiantes inmigrantes? Aplicaciones de amistad e integración de estudiantes inmigrantes en Chile (pp. 375–392). In A. Espinosa-Rada & F. Ortiz (Eds.), *Redes Sociales: teoría, métodos y aplicaciones en América Latina*. Madrid: Centro de Investigaciones Sociológicas (CIS). ISBN: 978-84-7476-906-7.
 
-- Luengo-Kanacri, B. P., Caprara, V., Manzi, J., & **Palacios, D.** (2023). Mapeando el uso del análisis de redes sociales en estudios empíricos de América Latina: tendencias, aportes y desafíos. In R. Mardones (Ed.), *Educación Ciudadana y Enseñanza Católica: La Fraternidad Como Desiderátum*. Santiago: Ediciones UC.
+- **Palacios, D.**, Villalobos, C., Berger, C., & Treviño, E. (2023). Mapeando el uso del análisis de redes sociales en estudios empíricos de América Latina: tendencias, aportes y desafíos (pp. 417–442). In A. Espinosa-Rada & F. Ortiz (Eds.), *Redes Sociales: teoría, métodos y aplicaciones en América Latina*. Madrid: Centro de Investigaciones Sociológicas (CIS). ISBN: 978-84-7476-906-7.
 
-- Luengo-Kanacri, B. P., Caprara, V., Manzi, J., & **Palacios, D.** (2022). Ciudadanía para la democracia: participación ciudadana, creencias prosociales y formación religiosa en universitarios chilenos. In R. Mardones (Ed.), *Educación Ciudadana y Enseñanza Católica: La Fraternidad Como Desiderátum*. Santiago: Ediciones UC.
+- Luengo-Kanacri, B. P., Caprara, V., Manzi, J., & **Palacios, D.** (2022). Ciudadanía para la democracia: participación ciudadana, creencias prosociales y formación religiosa en universitarios chilenos (pp. 347–381). In R. Mardones (Ed.), *Educación Ciudadana y Enseñanza Católica: La Fraternidad Como Desiderátum*. Santiago, Chile: Ediciones UC. ISBN: 978-956-143-013-6.
 
-- Marinovic, A., Luengo-Kanacri, B. P., & **Palacios, D.** (2021). Promoviendo la participación prosocial y ciudadana en redes personales en el contexto de intervenciones escolares en Chile. In C. Villalobos, M. J. Morel & E. Treviño (Eds.), *Ciudadanía. Educación y Juventudes*. Santiago: Ediciones UC.
+- Marinovic, A., Luengo-Kanacri, B. P., & **Palacios, D.** (2021). Promoviendo la participación prosocial y ciudadana en redes personales en el contexto de intervenciones escolares en Chile (pp. 535–568). In C. Villalobos, M. J. Morel & E. Treviño (Eds.), *Ciudadanía. Educación y Juventudes*. Santiago, Chile: Ediciones UC. ISBN: 978-956-14-2882-9.
+
 
 ## Working / submitted papers
 
