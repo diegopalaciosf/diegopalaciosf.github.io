@@ -27,6 +27,12 @@ defaults:
     values:
       author: diego
       author_profile: true
+# Default for publications collection
+  - scope:
+      type: publications
+    values:
+      author: diego
+      author_profile: true
 
 exclude:
   - README.md
