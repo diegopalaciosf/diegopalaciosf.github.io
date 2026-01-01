@@ -23,6 +23,10 @@ Reviewer for the following journals:
 - *Higher Education*
 - *British Journal of Educational Psychology*
 
+Member of the Editorial Board of the following journals:
+
+- *Merril-Palmer Quarterly*
+
 ## Special Issue Editor
 
 - **Guest Editor**, *Revista Latinoamericana de Redes Sociales (AWARI)*, Special Issue associated with the I CHISOCNET Conference (2024)
