@@ -1,0 +1,33 @@
+---
+layout: single
+title: "Service & Editorial"
+permalink: /service/
+author_profile: true
+author: diego
+---
+
+## Journal Reviewer
+
+Reviewer for the following journals:
+
+- *Child Development*
+- *Social Development*
+- *Journal of Adolescence*
+- *Developmental Psychology*
+- *PLOS ONE*
+- *International Journal of Educational Research*
+- *Children and Youth Services Review*
+- *Psicologia: Reflexão e Crítica*
+- *REDES*
+- *Frontiers in Education*
+- *Higher Education*
+- *British Journal of Educational Psychology*
+
+## Special Issue Editor
+
+- **Guest Editor**, *Revista Latinoamericana de Redes Sociales (AWARI)*, Special Issue associated with the I CHISOCNET Conference (2024)
+
+## Grant Reviewer
+
+- **European Research Council (ERC)**, Starting Grant (2024)
+- **ANID (Chile)**, FONDECYT Iniciación (2019, 2020, 2024)
