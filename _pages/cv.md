@@ -27,9 +27,10 @@ redirect_from:
 
 - Early Career Researcher, Millennium Nucleus for the Evaluation and Analysis of Drug Policies (nDP)
 - Early Career Researcher, Millennium Nucleus on Sociomedicine (SocioMed)
-- Board Member, Chilean Society for Social Network Science (CHISOCNET)
+- Board Member, Chilean Society for Social Network Science (CHISOCNET) 
 - Member, International Network for Social Network Analysis (INSNA)
 - Member, James Coleman Association (ICS)
+  
 ## Prizes & Scholarships
 
 - PhD internship scholarship, Centre for Social Conflict and Cohesion Studies (Chile) (2019)
