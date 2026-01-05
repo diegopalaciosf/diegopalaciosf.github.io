@@ -35,3 +35,6 @@ Member of the Editorial Board of the following journals:
 
 - **European Research Council (ERC)**, Starting Grant (2024)
 - **ANID (Chile)**, FONDECYT Iniciación (2019, 2020, 2024)
+
+## Academic Board
+- ** Former Member of the Academic Board of the PhD in Public Policy (Universidad Mayor)** (2024-2025)
