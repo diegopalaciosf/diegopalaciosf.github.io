@@ -9,7 +9,7 @@ excerpt: "Welcome to my academic website. Here you will find information about m
 
 ## About 
 
-I am [Diego Palacios](https://www.researchgate.net/profile/Diego-Palacios-13), an assistant professor at the Society and Health Research Center [CISS](https://ciss.umayor.cl/equipo/diego-palacios-phd) at Universidad Mayor (Chile) since 2021, and a young researcher at the Millennium nucleus for the evaluation and analysis of Drug Policies [(nDP)](https://www.nucleondp.cl/) and the Millennium nucleus on Sociomedicine [(SocioMed)](https://www.sociomed.cl/). My work focuses on applying social network methods in schools, family and organizational settings.
+I am [Diego Palacios](https://www.researchgate.net/profile/Diego-Palacios-13), an Associate Professor at the Society and Health Research Center [CISS](https://ciss.umayor.cl/equipo/diego-palacios-phd) at Universidad Mayor (Chile) since 2021, and a young researcher at the Millennium nucleus for the evaluation and analysis of Drug Policies [(nDP)](https://www.nucleondp.cl/) and the Millennium nucleus on Sociomedicine [(SocioMed)](https://www.sociomed.cl/). My work focuses on applying social network methods in schools, family and organizational settings.
 
 I am also a member of the board of the Chilean Society for Social Network Science [(CHISOCNET)](https://chisocnet.org).
 
