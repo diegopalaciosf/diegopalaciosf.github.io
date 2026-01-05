@@ -16,7 +16,7 @@ I am also a member of the board of the Chilean Society for Social Network Scienc
 My teaching is centered around research methodology and quantitative methods, with a specialization in social network analysis.
 
 ## News
-- I will be teaching at the [2st Chilean Summer School about Social Network Research](https://snlab-cl.github.io/summerschool/) from 12 to 16th January, 2026.
+- I will be teaching at the [2nd Chilean Summer School about Social Network Research](https://snlab-cl.github.io/summerschool/) from 12 to 16th January, 2026.
 
 
 ## Social network analyses resources
