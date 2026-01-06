@@ -5,7 +5,7 @@ main:
   - title: "Presentations"
     url: /presentations/   # si tu página es /talks/ cambia aquí
 
-  - title: "Research Projects"
+  - title: "Projects"
     url: /research-projects/
 
   - title: "Teaching"
@@ -17,7 +17,7 @@ main:
   - title: "Press"
     url: /press/
 
-  - title: "Service & Editorial"
+  - title: "Service"
     url: /service/
     
   - title: "CV"
