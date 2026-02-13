@@ -8,7 +8,7 @@ author: diego
 
 ## Journal articles
 
-- Dinamarca-Aravena, K., Silva-Gallardo, C. P., Rocha-Jiménez, T., **Palacios, D.**, & Castillo-Carniglia, Á. (in press). Parents' Perceptions of Substance Use Prevention Programs for Adolescents in Private Schools in Chile: A Qualitative Study. *Substance Abuse Treatment, Prevention, and Policy*.
+- Dinamarca-Aravena, K., Rocha-Jimenez, T., Silva-Gallardo, C. P., Palacios-Farías, D., & Castillo-Carniglia, A. (2026). Parents’ perceptions of substance use prevention programs for adolescents in private schools in Chile: a qualitative study. Substance Abuse Treatment, Prevention, and Policy, 21(1), 4. [doi:10.1186/s13011-025-00686-2](https://doi.org/10.1186/s13011-025-00686-2)
 
 - **Palacios, D.**, Román Mella, F., Beneventi Balocchi, F., & Castillo-Carniglia, Á. (2025). Friendship networks in the classroom: Is alcohol use important for choosing friends among adolescents? *Journal of Substance Use*, 1–8. [doi:10.1080/14659891.2025.2566635](https://doi.org/10.1080/14659891.2025.2566635)
 
