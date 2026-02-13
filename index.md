@@ -16,9 +16,9 @@ I am also a member of the board of the Chilean Society for Social Network Scienc
 My teaching is centered around research methodology and quantitative methods, with a specialization in social network analysis.
 
 ## News
-- I will be co-investigator in the FONDECYT Regular project "El rol de la seguridad psicológica en las dinámicas de violencia y convivencia escolar: Un enfoque multinivel para la promoción de una cultura del cuidado" lead by Christian Berger (PUC)
+- I will be co-investigator in the FONDECYT Regular project "El rol de la seguridad psicológica en las dinámicas de violencia y convivencia escolar: Un enfoque multinivel para la promoción de una cultura del cuidado" led by Christian Berger (PUC)
 
-## Social network analyses resources
+## Social network analysis resources
 
 - Podcast [Knitting networks](https://chisocnetorg.wordpress.com)
 - Revista [REDES](https://revistes.uab.cat/redes/index)
