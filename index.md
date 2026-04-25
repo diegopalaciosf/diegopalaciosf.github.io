@@ -4,6 +4,7 @@ title: "Diego Palacios"
 permalink: /
 author_profile: true
 author: diego
+author_avatar: "Diego_Palacios_alt.jpg"
 excerpt: "Associate Professor at Universidad Mayor studying adolescent peer networks, prosociality, substance use, and mental health."
 ---
 
