@@ -13,6 +13,8 @@ I am [Diego Palacios](https://www.researchgate.net/profile/Diego-Palacios-13), A
 
 My research examines how adolescent peer relations shape prosociality, aggression, substance use, academic adjustment, and mental health. Across these topics, I use longitudinal social network analysis to study how relationships and behaviors co-evolve in classrooms and other social settings. I also serve on the board of the Chilean Society for Social Network Science [(CHISOCNET)](https://chisocnet.org).
 
+*Last updated: April 25, 2026*
+
 ## Current Focus
 
 - Adolescent peer networks, friendship selection, and peer influence
