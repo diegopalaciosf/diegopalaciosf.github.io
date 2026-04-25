@@ -49,7 +49,7 @@ author: diego
 
 ## Internships
 
-- **Ricardo Paredes**, Master’s in Medical Technology, Universidad Mayor, Chile (2026)
+- **Ricardo Sánchez**, Master’s in Medical Technology, Universidad Mayor, Chile (2026)
 
 ## Practicum
 
