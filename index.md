@@ -10,14 +10,9 @@ excerpt: "Associate Professor at Universidad Mayor studying adolescent peer netw
 
 ## Research Overview
 
-<figure style="float: right; width: 42%; max-width: 360px; margin: 0 0 1rem 1.5rem; text-align: center;">
-  <img src="{{ base_path }}/images/coauthor_network.png" alt="Co-authorship network based on publications" style="width: 100%; border: 1px solid #ddd; border-radius: 6px;">
-  <figcaption style="font-size: 0.85em;">Co-authorship network across publications, highlighting frequent collaborators such as Berger, Villalobos, Veenstra, Dijkstra, and Román Mella.</figcaption>
-</figure>
-
 I am [Diego Palacios Farías](https://www.researchgate.net/profile/Diego-Palacios-13), Associate Professor at the Society and Health Research Center [CISS](https://ciss.umayor.cl/equipo/diego-palacios-phd) at Universidad Mayor, Chile. I was previously affiliated with the Millennium Nucleus for the Evaluation and Analysis of Drug Policies [(nDP)](https://www.nucleondp.cl/) and the Millennium Nucleus on Sociomedicine [(SocioMed)](https://www.sociomed.cl/).
 
-My research examines how adolescent peer relations shape prosociality, aggression, substance use, academic adjustment, and mental health. Across these topics, I use longitudinal social network analysis to study how relationships and behaviors co-evolve in classrooms and other social settings. I also serve on the board of the Chilean Society for Social Network Science [(CHISOCNET)](https://chisocnet.org).
+My research examines how adolescent peer relations shape prosociality, aggression, substance use, academic adjustment, and mental health. Across these topics, I use longitudinal social network analysis to study how relationships and behaviors co-evolve in classrooms and other social settings. I also serve as Secretary of the Chilean Society for Social Network Science [(CHISOCNET)](https://chisocnet.org).
 
 *Last updated: April 25, 2026*
 
@@ -32,12 +27,12 @@ My research examines how adolescent peer relations shape prosociality, aggressio
 
 - **“Help, I Need Somebody”: Apoyo y exclusion entre estudiantes como factores protectores de la depresion escolar**. Fondo Puente Universidad Mayor (2026). Principal Investigator.
 - **“Filantropia en el sistema escolar chileno. Privatizacion, gobernanza y politica educativa en la era del filantrocapitalismo”**. FONDECYT Regular 1230358 (2023-2026). Co-Investigator.
-- **“El rol de la seguridad psicologica en las dinamicas de violencia y convivencia escolar: Un enfoque multinivel para la promocion de una cultura del cuidado”**. FONDECYT Regular 1260528 (2026-2029). Responsible Co-Investigator.
+- **“El rol de la seguridad psicologica en las dinamicas de violencia y convivencia escolar: Un enfoque multinivel para la promocion de una cultura del cuidado”**. FONDECYT Regular 1260528 (2026-2029). Co-Investigator.
 
 ## Recent Highlights
 
 - 2026 article in *Substance Abuse Treatment, Prevention, and Policy* on parents' perceptions of adolescent substance use prevention programs in Chile
-- 2026 award of FONDECYT Regular 1260528 as Responsible Co-Investigator, with Christian Berger as Principal Investigator
+- 2026 award of FONDECYT Regular 1260528 as Co-Investigator, with Christian Berger as Principal Investigator
 - Editorial board member of *Merrill-Palmer Quarterly*
 
 ## Academic Links
