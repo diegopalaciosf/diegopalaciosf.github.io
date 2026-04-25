@@ -10,7 +10,7 @@ excerpt: "Associate Professor at Universidad Mayor studying adolescent peer netw
 
 ## Research Overview
 
-I am [Diego Palacios](https://www.researchgate.net/profile/Diego-Palacios-13), Associate Professor at the Society and Health Research Center [CISS](https://ciss.umayor.cl/equipo/diego-palacios-phd) at Universidad Mayor, Chile. I am also affiliated with the Millennium Nucleus for the Evaluation and Analysis of Drug Policies [(nDP)](https://www.nucleondp.cl/) and the Millennium Nucleus on Sociomedicine [(SocioMed)](https://www.sociomed.cl/).
+I am [Diego Palacios](https://www.researchgate.net/profile/Diego-Palacios-13), Associate Professor at the Society and Health Research Center [CISS](https://ciss.umayor.cl/equipo/diego-palacios-phd) at Universidad Mayor, Chile. I was previously affiliated with the Millennium Nucleus for the Evaluation and Analysis of Drug Policies [(nDP)](https://www.nucleondp.cl/) and the Millennium Nucleus on Sociomedicine [(SocioMed)](https://www.sociomed.cl/).
 
 My research examines how adolescent peer relations shape prosociality, aggression, substance use, academic adjustment, and mental health. Across these topics, I use longitudinal social network analysis to study how relationships and behaviors co-evolve in classrooms and other social settings. I also serve on the board of the Chilean Society for Social Network Science [(CHISOCNET)](https://chisocnet.org).
 
@@ -25,17 +25,15 @@ My research examines how adolescent peer relations shape prosociality, aggressio
 
 ## Ongoing Projects
 
-- **FONDECYT Iniciacion 11230902 (2023-2025):** *It takes two for substance use: Peer mechanisms in adolescents' substance use*
 - **Fondo Puente Universidad Mayor (2026):** *"Help, I Need Somebody": apoyo y exclusion entre estudiantes como factores protectores de la depresion escolar*
-- **Maxi COES (2024-2025):** co-investigator in a project on prosocial behavior and social cohesion in educational contexts
 - **FONDECYT Regular 1230358 (2023-2026):** co-investigator in a project on philanthropy, governance, and education policy in Chile
-- **FONDECYT Regular 1260528:** co-investigator in *El rol de la seguridad psicologica en las dinamicas de violencia y convivencia escolar: Un enfoque multinivel para la promocion de una cultura del cuidado* *(approx. USD 215,000)*
+- **FONDECYT Regular 1260528:** co-investigator in *El rol de la seguridad psicologica en las dinamicas de violencia y convivencia escolar: Un enfoque multinivel para la promocion de una cultura del cuidado*
 
 ## Recent Highlights
 
+- 2026 article in *Substance Abuse Treatment, Prevention, and Policy* on parents' perceptions of adolescent substance use prevention programs in Chile
 - 2025 article in *Journal of Substance Use* on friendship networks and alcohol use among adolescents
 - 2025 article in *Journal of Youth and Adolescence* on prosocial contagion in classrooms
-- 2024 article in *British Journal of Educational Psychology* on friendships, prosocial behavior, and study partner preferences
 - Editorial board member of *Merrill-Palmer Quarterly*
 
 ## Academic Links

@@ -17,7 +17,7 @@ author: diego
 ## Master’s Theses
 
 - **Francisca Droguett** (Co-supervisor), Master’s in Psychology, Universidad de la Frontera, Chile.  
-  *Sentido de Pertenencia al Establecimiento Educacional y Consumo de Sustancias en Adolescentes Chilenos Escolarizados* (2024–present)
+  *Sentido de Pertenencia al Establecimiento Educacional y Consumo de Sustancias en Adolescentes Chilenos Escolarizados* (2024–2026)
 
 - **Fernanda San Martín** (Co-supervisor), Master’s in Psychology, Universidad de la Frontera, Chile.  
   *Cambios en los patrones de consumo de sustancias en adolescentes: Un análisis longitudinal* (2023–2025)
@@ -46,6 +46,10 @@ author: diego
 - **Matías Montero**, PhD in Education, University of Oxford, United Kingdom (2026)
 
 - **Silvia Caldaroni**, PhD in Psychology, La Sapienza University of Rome, Italy (2024)
+
+## Internships
+
+- **Ricardo Paredes**, Master’s in Medical Technology, Universidad Mayor, Chile (2026)
 
 ## Practicum
 
