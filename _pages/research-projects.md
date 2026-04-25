@@ -6,6 +6,8 @@ author_profile: true
 author: diego
 ---
 
+My current projects focus on adolescent peer relations, school-based well-being, substance use, and the application of social network methods to social and educational problems.
+
 ## As Principal Investigator
 
 - **“Help, I Need Somebody”: Apoyo y Exclusión entre estudiantes como factores protectores de la depresión escolar**. Fondo Puente Universidad Mayor (2026). With Román, F., & Domínguez, K. *(approx. USD 3,000)*

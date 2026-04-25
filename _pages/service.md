@@ -25,7 +25,7 @@ Reviewer for the following journals:
 
 Member of the Editorial Board of the following journals:
 
-- *Merril-Palmer Quarterly*
+- *Merrill-Palmer Quarterly*
 
 ## Special Issue Editor
 
@@ -37,4 +37,5 @@ Member of the Editorial Board of the following journals:
 - **ANID (Chile)**, FONDECYT Iniciación (2019, 2020, 2024)
 
 ## Academic Board
-- ** Former Member of the Academic Board of the PhD in Public Policy (Universidad Mayor)** (2024-2025)
+
+- Former Member of the Academic Board of the PhD in Public Policy, Universidad Mayor (2024-2025)

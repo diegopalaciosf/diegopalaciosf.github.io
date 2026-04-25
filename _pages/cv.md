@@ -23,6 +23,13 @@ redirect_from:
 - **Research Assistant**, MIDE UC, Pontificia Universidad Católica de Chile (2013–2016)
 - **Research Assistant**, CEIS Maristas (2009)
 
+## Research Interests
+
+- Adolescent peer networks and friendship dynamics
+- Prosociality, aggression, and social status
+- Substance use and mental health in adolescence
+- Longitudinal social network analysis in educational settings
+
 ## Other Affiliations
 
 - Early Career Researcher, Millennium Nucleus for the Evaluation and Analysis of Drug Policies (nDP)
@@ -53,5 +60,4 @@ See courses and workshops here: [Teaching]({{ base_path }}/teaching/)
 
 ## Download full CV
 
-[Download CV (PDF)]({{ base_path }}/files/CV_english_January2026.pdf)
-
+[Download full CV (PDF)]({{ base_path }}/files/CV_english_January2026.pdf)

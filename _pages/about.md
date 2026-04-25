@@ -8,11 +8,22 @@ author: diego
 
 ## Profile
 
-Experienced social scientist specializing in adolescent peer networks, prosociality, substance use, and mental health. Skilled in R and advanced network analysis methods (SAOM, ERGM).
+I am a social scientist working at the intersection of adolescence, education, health, and social network analysis. My research focuses on how peer relations shape developmental outcomes, with special attention to prosociality, aggression, substance use, academic adjustment, and mental health.
+
+I work primarily with longitudinal network data and quantitative methods, especially stochastic actor-oriented models (SAOM), exponential random graph models (ERGM), and related approaches for studying selection and influence processes. Much of my work is based in school settings, where I examine how social ties and behaviors evolve together over time.
 
 ## Research Areas
 
 Peer relations, adolescence, social network analysis, prosociality, aggression, coauthorship networks, friendships, peer influence, substance use, mental health.
+
+## Methods and Interests
+
+- Longitudinal social network analysis
+- Stochastic actor-oriented models (RSiena)
+- Exponential random graph models
+- Peer influence and friendship selection
+- Adolescent development and school-based research
+- Quantitative methods in sociology, psychology, and education
 
 ## Other Affiliations
 
@@ -34,6 +45,12 @@ Peer relations, adolescence, social network analysis, prosociality, aggression, 
 - **Assistant Professor**, Society and Health Research Center, Universidad Mayor, Chile (2021–2025)
 - **Research Assistant**, MIDE UC, Pontificia Universidad Católica de Chile (2013–2016)
 - **Research Assistant**, CEIS Maristas (2009)
+
+## Current Roles
+
+- Principal Investigator, FONDECYT Iniciacion 11230902
+- Co-Investigator in funded projects on social cohesion, school philanthropy, and sociomedicine
+- Editorial Board Member, *Merrill-Palmer Quarterly*
 
 ## Prizes & Scholarships
 
