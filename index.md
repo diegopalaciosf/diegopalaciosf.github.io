@@ -29,6 +29,7 @@ My research examines how adolescent peer relations shape prosociality, aggressio
 - **Fondo Puente Universidad Mayor (2026):** *"Help, I Need Somebody": apoyo y exclusion entre estudiantes como factores protectores de la depresion escolar*
 - **Maxi COES (2024-2025):** co-investigator in a project on prosocial behavior and social cohesion in educational contexts
 - **FONDECYT Regular 1230358 (2023-2026):** co-investigator in a project on philanthropy, governance, and education policy in Chile
+- **FONDECYT Regular 1260528:** co-investigator in *El rol de la seguridad psicologica en las dinamicas de violencia y convivencia escolar: Un enfoque multinivel para la promocion de una cultura del cuidado* *(approx. USD 215,000)*
 
 ## Recent Highlights
 

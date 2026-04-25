@@ -17,6 +17,7 @@ My current projects focus on adolescent peer relations, school-based well-being,
 
 ## As Co-Investigator
 
+- **“El rol de la seguridad psicológica en las dinámicas de violencia y convivencia escolar: Un enfoque multinivel para la promoción de una cultura del cuidado”**. FONDECYT Regular 1260528. Co-Investigator. *(approx. USD 215,000)*
 - **“Un Modelo para Promover y Estudiar Comportamientos Prosociales y Cohesión Social en Contextos Educativos”**. Maxi COES (2024–2025). PI: Luengo, P. *(approx. USD 35,000)*
 - **“Filantropía en el sistema escolar chileno. Privatización, gobernanza y política educativa en la era del filantrocapitalismo”**. FONDECYT Regular 1230358 (2023–2026). PI: Villalobos, C. *(approx. USD 155,000)*
 - **“Redes de co-patrocinio legislativo en iniciativas de ley sobre drogas y sustancias en Chile”**. Intramural funding, Millennium Nucleus on Sociomedicine (SocioMed) (2023–2024). PI: Cabezas, J. *(approx. USD 4,000)*
